@@ -58,7 +58,7 @@
     "semver": "^5.5.0",
     "shx": "^0.3.2",
     "sinon": "^6.1.4",
-    "sinon-test": "^2.1.1",
+    "sinon-test": "^2.4.0",
     "source-map-support": "^0.5.6",
     "ts-node": "^7.0.0",
     "tslint": "^5.10.0",
